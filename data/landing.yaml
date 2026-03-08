@@ -1,20 +1,25 @@
-heroSection:
-  template: "hero"
+# ----------------------------------------------------
+# 1. ส่วนเนื้อหาของเราเอง (ตั้งชื่อนำหน้าว่า wisit จะได้ไม่ซ้ำ)
+# ----------------------------------------------------
+wisitHero:
+  enable: true
   weight: 10
+  template: "hero"
   title: "Wisit's Notebook"
   subtitle: "แหล่งรวบรวมความรู้ด้าน Programming, Industrial Automation, และบันทึกการเรียนรู้"
   ctaButton:
     icon: "auto_stories"
     btnText: "เข้าสู่อ่านบทความ (Docs)"
-    url: "/docs/"
+    url: "docs/"
   cta2Button:
     icon: "business"
     btnText: "รู้จักกับ WP Solution"
     url: "https://www.wpsolution2017.com"
 
-featureGridSection:
-  template: "feature grid"
+wisitFeatures:
+  enable: true
   weight: 20
+  template: "feature grid"
   features:
     - icon: "factory"
       title: "Automation"
@@ -25,3 +30,19 @@ featureGridSection:
     - icon: "eco"
       title: "Life & Health"
       text: "สมุดทดเรื่องราวทั่วไป สูตรสมูทตี้ และแนวคิดการใช้ชีวิต"
+
+
+# ----------------------------------------------------
+# 2. คำสั่ง "ปิด" ส่วนเสริมที่ติดมากับธีมต้นฉบับ (ห้ามลบส่วนนี้นะครับ)
+# ----------------------------------------------------
+hero:
+  enable: false
+
+featureGrid:
+  enable: false
+
+imageText:
+  enable: false
+
+imageCompare:
+  enable: false
