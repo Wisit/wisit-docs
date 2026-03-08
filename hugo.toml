@@ -1,0 +1,22 @@
+baseURL = 'https://wisit.github.io/wisit-docs/'
+languageCode = 'th-TH'
+title = 'Wisit Knowledge Base'
+theme = ['github.com/colinwilson/lotusdocs']
+
+# ตั้งค่าเมนูพื้นฐาน
+[menu]
+  [[menu.primary]]
+    name = "Docs"
+    url = "/docs/"
+    weight = 10
+
+# ตั้งค่าของธีม Lotus Docs
+[params]
+  docs_dir = "docs" # กำหนดโฟลเดอร์หลักสำหรับเนื้อหา
+  
+  [params.header]
+    logo = true
+    title = "วิสิทธิ์ แผ้วกระโทก"
+  
+  [params.footer]
+    copyright = "© 2026 Wisit Paewkratok"
