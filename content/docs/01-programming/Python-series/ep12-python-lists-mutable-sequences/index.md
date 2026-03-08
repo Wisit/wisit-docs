@@ -1,7 +1,7 @@
 ---
 title: "เจาะลึก Lists (Mutable Sequences): โครงสร้างข้อมูลแบบยืดหยุ่นที่เป็นหัวใจของ Python"
 weight: 120
-date: 2026-03-09
+date: 2026-03-08
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Python 3", "Data Structures", "Lists", "Mutable", "Sequence"]
 ---
