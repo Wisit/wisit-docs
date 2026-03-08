@@ -1,0 +1,27 @@
+heroSection:
+  template: "hero"
+  weight: 10
+  title: "Wisit's Notebook"
+  subtitle: "แหล่งรวบรวมความรู้ด้าน Programming, Industrial Automation, และบันทึกการเรียนรู้"
+  ctaButton:
+    icon: "auto_stories"
+    btnText: "เข้าสู่อ่านบทความ (Docs)"
+    url: "/docs/"
+  cta2Button:
+    icon: "business"
+    btnText: "รู้จักกับ WP Solution"
+    url: "https://www.wpsolution2017.com"
+
+featureGridSection:
+  template: "feature grid"
+  weight: 20
+  features:
+    - icon: "factory"
+      title: "Automation"
+      text: "บันทึกการทำงานกับ PLC, AGV/AMR และการเชื่อมต่อฮาร์ดแวร์ระดับโรงงานอุตสาหกรรม"
+    - icon: "terminal"
+      title: "Modern Stack"
+      text: "บทความเจาะลึกการเขียน C#, Node.js, Vue.js และการทำ Backend System"
+    - icon: "eco"
+      title: "Life & Health"
+      text: "สมุดทดเรื่องราวทั่วไป สูตรสมูทตี้ และแนวคิดการใช้ชีวิต"
