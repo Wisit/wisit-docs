@@ -1,6 +1,6 @@
 ---
 title: "ผ่าโครงสร้าง WPF (Windows Presentation Foundation): สุดยอดอาวุธสร้าง UI แห่งโลกเดสก์ท็อป"
-weight: 10
+weight: 5
 date: 2026-03-09
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["WPF", "C#", "XAML", "Desktop Application", "MVVM"]
