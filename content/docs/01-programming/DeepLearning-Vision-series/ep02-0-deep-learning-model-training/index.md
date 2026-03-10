@@ -1,6 +1,6 @@
 ---
 title: "ห้องฝึกวิชาสมองกล: แกะรอยกระบวนการ Training Model หัวใจสำคัญของ Deep Learning"
-weight: 50
+weight: 20
 date: 2026-03-10
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Deep Learning", "Model Training", "Backpropagation", "Gradient Descent", "Optimization"]
