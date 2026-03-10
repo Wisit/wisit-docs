@@ -4,6 +4,7 @@ weight: 15
 date: 2026-03-10
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Deep Learning", "CNN", "ANN", "Machine Vision", "Image Processing"]
+katex: true
 ---
 {{< figure src="cnn-vs-ann-industrial-cover.jpg" alt="ภาพปก CNN vs ANN ในงานอุตสาหกรรม" >}}
 

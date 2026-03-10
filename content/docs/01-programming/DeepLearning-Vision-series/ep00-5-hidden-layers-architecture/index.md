@@ -4,6 +4,7 @@ weight: 6
 date: 2026-03-10
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Deep Learning", "Neural Networks", "Hidden Layers", "Machine Learning", "Architecture"]
+katex: true
 ---
 {{< figure src="hidden-layers-architecture-cover.jpg" alt="ภาพปก Hidden Layers ในบริบทของสถาปัตยกรรมโครงข่ายประสาท" >}}
 

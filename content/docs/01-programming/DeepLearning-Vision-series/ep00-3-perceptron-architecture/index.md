@@ -4,6 +4,7 @@ weight: 4
 date: 2026-03-10
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Deep Learning", "Neural Networks", "Perceptron", "MLP", "AI"]
+katex: true
 ---
 {{< figure src="perceptron-architecture-cover.jpg" alt="ภาพปก The Perceptron and Neural Network Architectures" >}}
 

@@ -4,6 +4,7 @@ weight: 5
 date: 2026-03-10
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Artificial Neural Network", "Deep Learning", "Architecture", "MLP", "AI"]
+katex: true
 ---
 {{< figure src="ann-architectures-context-cover.jpg" alt="ภาพปก Artificial Neural Networks ในบริบทของสถาปัตยกรรมเครือข่าย" >}}
 
