@@ -1,6 +1,6 @@
 ---
 title: "ความแตกต่างระหว่าง Laravel Herd และ Laravel Sail"
-weight: 10
+weight: 6
 date: 2026-03-11
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Laravel 11", "Laravel Herd", "Laravel Sail", "Docker", "Local Development"]

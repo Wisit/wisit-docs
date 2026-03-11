@@ -1,6 +1,6 @@
 ---
 title: "ความเข้าใจเรื่อง MVC Architecture ในบริบทของ Laravel"
-weight: 10
+weight: 8
 date: 2026-03-11
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Laravel 11", "MVC", "Architecture", "Routing", "Controller"]

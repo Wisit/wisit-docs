@@ -1,6 +1,6 @@
 ---
 title: "การติดตั้ง Laravel 11: จากศูนย์จนรันได้จริง"
-weight: 12
+weight: 2
 date: 2026-03-11
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Laravel 11", "Installation", "Composer", "Laravel Herd", "Laravel Sail"]

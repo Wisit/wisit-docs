@@ -1,6 +1,6 @@
 ---
 title: "ทำไมต้อง Laravel 11 ในปี 2024? ปฏิวัติความเรียบง่าย"
-weight: 10
+weight: 1
 date: 2024-05-15
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Laravel 11", "PHP 8", "Web Architecture", "Minimalism"]

@@ -1,6 +1,6 @@
 ---
 title: "Configuration & Environment: จัดการค่าเซ็ตติ้งด้วย .env"
-weight: 14
+weight: 5
 date: 2026-03-11
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Laravel 11", "Configuration", ".env", "Environment Variables", "Security"]

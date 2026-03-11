@@ -1,6 +1,6 @@
 ---
 title: "Artisan Console: เครื่องมือทุ่นแรงที่ Developer ต้องรัก"
-weight: 10
+weight: 7
 date: 2026-03-11
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Laravel 11", "Artisan", "CLI", "Productivity"]
