@@ -1,6 +1,6 @@
 ---
 title: "เจาะลึก Directory Structure ใหม่ใน Laravel 11: หายไปไหนหมด!?"
-weight: 10
+weight: 15
 date: 2026-03-11
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Laravel 11", "Directory Structure", "Architecture", "PHP 8"]
