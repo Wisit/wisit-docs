@@ -1,5 +1,5 @@
 ---
-title: "เรียนรู้ คู่มือการเรียนรู้ Deep Learning สำหรับระบบ Vision system"
+title: "เรียนรู้ Deep Learning สำหรับระบบ Vision system"
 weight: 30
 bookCollapseSection: true
 ---
