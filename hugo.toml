@@ -20,3 +20,8 @@ theme = ['github.com/colinwilson/lotusdocs']
   
   [params.footer]
     copyright = "© 2026 Wisit Paewkratok"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
