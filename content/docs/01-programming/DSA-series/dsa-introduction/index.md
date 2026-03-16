@@ -4,6 +4,7 @@ weight: 1101
 date: 2026-03-15
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Data Structure", "Algorithm", "Big-O", "Python"]
+katex: true
 ---
 {{< figure src="dsa-introduction-cover.jpg" alt="รูปปกบทความ" >}}
 

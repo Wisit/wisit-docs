@@ -4,6 +4,7 @@ weight: 1105
 date: 2026-03-15
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Data Structure", "Algorithm", "Stack", "Big-O", "Python"]
+katex: true
 ---
 {{< figure src="stack-lifo-cover.jpg" alt="รูปปกบทความ" >}}
 

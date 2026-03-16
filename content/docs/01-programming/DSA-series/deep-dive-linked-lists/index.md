@@ -4,6 +4,7 @@ weight: 1104
 date: 2026-03-15
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Data Structure", "Algorithm", "Big-O", "Linked List", "Python"]
+katex: true
 ---
 {{< figure src="deep-dive-linked-lists-cover.jpg" alt="รูปปกบทความ" >}}
 
