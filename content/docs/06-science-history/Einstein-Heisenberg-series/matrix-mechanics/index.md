@@ -4,6 +4,7 @@ weight: 1313
 date: 2026-03-16
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Physics", "Quantum Mechanics", "Werner Heisenberg", "Max Born", "Matrix Mechanics"]
+katex: true
 ---
 {{< figure src="matrix-mechanics-cover.jpg" alt="รูปปกบทความ กลศาสตร์เมทริกซ์ ระบบคณิตศาสตร์แห่งควอนตัม" >}}
 

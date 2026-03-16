@@ -4,6 +4,7 @@ weight: 1314
 date: 2026-03-16
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Physics", "Quantum Mechanics", "Erwin Schrödinger", "Wave Mechanics", "Science History"]
+katex: true
 ---
 {{< figure src="schrodinger-wave-equation-cover.jpg" alt="รูปปกบทความ สมการชเรอดิงเงอร์และฟังก์ชันคลื่น" >}}
 

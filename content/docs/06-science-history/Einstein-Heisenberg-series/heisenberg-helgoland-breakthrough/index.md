@@ -4,6 +4,7 @@ weight: 1312
 date: 2026-03-16
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Physics", "Quantum Mechanics", "Werner Heisenberg", "Helgoland", "Matrix Mechanics"]
+katex: true
 ---
 {{< figure src="heisenberg-helgoland-breakthrough-cover.jpg" alt="รูปปกบทความ ไฮเซนแบร์กบนเกาะเฮลโกแลนด์" >}}
 

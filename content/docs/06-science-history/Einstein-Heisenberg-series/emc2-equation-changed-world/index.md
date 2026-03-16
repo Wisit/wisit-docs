@@ -4,6 +4,7 @@ weight: 1310
 date: 2026-03-16
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Physics", "Special Relativity", "Albert Einstein", "E=mc2", "Nuclear Energy"]
+katex: true
 ---
 {{< figure src="emc2-equation-changed-world-cover.jpg" alt="รูปปกบทความ E=mc² สมการเปลี่ยนโลก" >}}
 

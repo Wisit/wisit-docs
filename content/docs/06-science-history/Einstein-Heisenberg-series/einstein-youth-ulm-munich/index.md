@@ -4,6 +4,7 @@ weight: 1302
 date: 2026-03-16
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Physics", "Science History", "Albert Einstein", "Electromagnetism"]
+katex: true
 ---
 {{< figure src="einstein-youth-ulm-munich-cover.jpg" alt="รูปปกบทความ" >}}
 
