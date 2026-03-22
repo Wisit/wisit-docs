@@ -1,7 +1,7 @@
 ---
 title: "ตอนที่ 7: ทำไมควอนตัมถึงอยู่รอบตัวเรา: จากดวงอาทิตย์สู่หน้าจอสมาร์ทโฟน"
 weight: 1907
-date: YYYY-MM-DD
+date: 2026-03-22
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["Quantum Physics", "Science", "Everyday Tech", "Quantum Tunneling"]
 katex: true
