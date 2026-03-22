@@ -1,12 +1,13 @@
 # ----------------------------------------------------
-# 1. ส่วนเนื้อหาของเราเอง (ตั้งชื่อนำหน้าว่า wisit จะได้ไม่ซ้ำ)
+# 1. ส่วนเนื้อหาของ Wisit's Notebook
 # ----------------------------------------------------
 wisitHero:
   enable: true
   weight: 10
   template: "hero"
   title: "Wisit's Notebook"
-  subtitle: "แหล่งรวบรวมความรู้ด้าน Programming, Industrial Automation, และบันทึกการเรียนรู้"
+  # แทรกลิงก์ข้อความธรรมดาไว้ใต้ Subtitle
+  subtitle: 'แหล่งรวบรวมความรู้ด้าน Programming, Industrial Automation, และบันทึกการเรียนรู้ <br><br> แวะชมเว็บไซต์เพิ่มเติม: <a href="https://www.123microcontroller.com" target="_blank" class="text-primary fw-bold text-decoration-none">123 Microcontroller</a>'
   ctaButton:
     icon: "auto_stories"
     btnText: "เข้าสู่อ่านบทความ (Docs)"
