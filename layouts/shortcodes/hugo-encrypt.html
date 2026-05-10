@@ -1,0 +1,28 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+<div id="encrypt-content" style="display:none;">{{ .Inner }}</div>
+<div id="password-form" class="p-4 border rounded shadow-sm text-center">
+    <h4>🔒 เนื้อหานี้ถูกล็อกไว้</h4>
+    <p>โปรดกรอกรหัสผ่านเพื่ออ่านบทความ</p>
+    <input type="password" id="pass-input" class="form-control mb-3" placeholder="กรอกรหัสผ่านที่นี่">
+    <button onclick="decryptContent()" class="btn btn-primary w-100">ถอดรหัสเนื้อหา</button>
+</div>
+
+<script>
+function decryptContent() {
+    const encrypted = document.getElementById('encrypt-content').innerText;
+    const password = document.getElementById('pass-input').value;
+    try {
+        const bytes = CryptoJS.AES.decrypt(encrypted, password);
+        const decoded = bytes.toString(CryptoJS.enc.Utf8);
+        if (decoded) {
+            document.getElementById('encrypt-content').innerHTML = decoded;
+            document.getElementById('encrypt-content').style.display = 'block';
+            document.getElementById('password-form').style.display = 'none';
+        } else {
+            alert('รหัสผ่านไม่ถูกต้อง!');
+        }
+    } catch (e) {
+        alert('เกิดข้อผิดพลาดในการถอดรหัส!');
+    }
+}
+</script>
