@@ -4,6 +4,7 @@ weight: 2310
 date: 2026-05-10
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["RF", "Digital Communication", "Analog", "Noise Immunity", "PCM"]
+katex: true
 ---
 {{< figure src="analog-vs-digital-rf-cover.jpg" alt="รูปปกบทความสมุดโน้ตวิศวกรรมเรื่องสัญญาณแอนะล็อกและดิจิทัล" >}}
 

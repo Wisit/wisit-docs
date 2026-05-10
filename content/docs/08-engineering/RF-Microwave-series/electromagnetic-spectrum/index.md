@@ -4,6 +4,7 @@ weight: 2303
 date: 2026-05-10
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["RF", "Microwave", "Spectrum", "Electromagnetics", "Wireless"]
+katex: true
 ---
 {{< figure src="electromagnetic-spectrum-cover.jpg" alt="รูปปกบทความสมุดโน้ตวิศวกรรม Electromagnetic Spectrum" >}}
 

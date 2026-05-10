@@ -4,6 +4,7 @@ weight: 2304
 date: 2026-05-10
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["EM Waves", "Maxwell", "Electric Field", "Magnetic Field", "RF"]
+katex: true
 ---
 {{< figure src="how-em-waves-are-generated-cover.jpg" alt="รูปปกบทความสมุดโน้ตวิศวกรรมการกำเนิดคลื่นแม่เหล็กไฟฟ้า" >}}
 

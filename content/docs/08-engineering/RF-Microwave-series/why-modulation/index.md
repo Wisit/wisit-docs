@@ -4,6 +4,7 @@ weight: 2308
 date: 2026-05-10
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["RF", "Microwave", "Modulation", "Carrier Wave", "Baseband"]
+katex: true
 ---
 {{< figure src="why-modulation-cover.jpg" alt="รูปปกบทความสมุดโน้ตวิศวกรรมเรื่องการมอดูเลต" >}}
 

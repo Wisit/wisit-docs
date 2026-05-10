@@ -4,6 +4,7 @@ weight: 2301
 date: 2026-05-10
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["RF", "Microwave", "Wireless", "Electromagnetics"]
+katex: true
 ---
 {{< figure src="intro-to-rf-microwave-cover.jpg" alt="รูปปกบทความสมุดโน้ตวิศวกรรม" >}}
 

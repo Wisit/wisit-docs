@@ -4,6 +4,7 @@ weight: 2306
 date: 2026-05-10
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["RF", "Microwave", "Poynting Vector", "Energy", "Electromagnetics"]
+katex: true
 ---
 {{< figure src="energy-in-em-waves-poynting-vector-cover.jpg" alt="รูปปกบทความสมุดโน้ตวิศวกรรมพลังงานในคลื่นแม่เหล็กไฟฟ้า" >}}
 

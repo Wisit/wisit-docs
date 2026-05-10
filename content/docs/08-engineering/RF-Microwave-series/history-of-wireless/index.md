@@ -4,6 +4,7 @@ weight: 2302
 date: 2026-05-10
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["History", "Wireless", "Hertz", "Marconi", "Antenna"]
+katex: true
 ---
 {{< figure src="history-of-wireless-cover.jpg" alt="รูปปกบทความสมุดโน้ตวิศวกรรมประวัติศาสตร์การสื่อสารไร้สาย" >}}
 

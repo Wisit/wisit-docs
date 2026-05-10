@@ -4,6 +4,7 @@ weight: 2309
 date: 2026-05-10
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["RF", "Modulation", "AM", "FM", "Wireless"]
+katex: true
 ---
 {{< figure src="analog-modulation-am-fm-cover.jpg" alt="รูปปกบทความสมุดโน้ตวิศวกรรมเรื่องการมอดูเลตแบบแอนะล็อก" >}}
 

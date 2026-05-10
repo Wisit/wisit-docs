@@ -4,6 +4,7 @@ weight: 2307
 date: 2026-05-10
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["RF", "Microwave", "Decibel", "Attenuation", "Path Loss", "Wireless"]
+katex: true
 ---
 {{< figure src="gain-attenuation-db-cover.jpg" alt="รูปปกบทความสมุดโน้ตวิศวกรรมเรื่อง Gain และ Attenuation" >}}
 

@@ -4,6 +4,7 @@ weight: 2305
 date: 2026-05-10
 author: วิสิทธิ์ แผ้วกระโทก
 tags: ["RF", "Microwave", "Wavelength", "Frequency", "Phase", "Wireless"]
+katex: true
 ---
 {{< figure src="wavelength-frequency-phase-cover.jpg" alt="รูปปกบทความสมุดโน้ตวิศวกรรม Wavelength Frequency Phase" >}}
 
