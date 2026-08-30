@@ -6,6 +6,7 @@ date: 2026-08-30
 tags: ["Machine Learning", "Deep Learning", "MLOps"]
 categories: ["Tutorials"]
 draft: false
+katex: true
 ---
 {{< figure src="meaning-of-machine-learning-cover.jpg" alt="รูปปกบทความ" >}}
 

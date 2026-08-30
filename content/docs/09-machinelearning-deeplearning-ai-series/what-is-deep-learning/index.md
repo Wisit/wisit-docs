@@ -6,6 +6,7 @@ date: 2026-08-30
 tags: ["Machine Learning", "Deep Learning", "Neural Networks"]
 categories: ["Tutorials"]
 draft: false
+katex: true
 ---
 {{< figure src="what-is-deep-learning-cover.jpg" alt="รูปปกบทความ" >}}
 
