@@ -63,9 +63,11 @@ $$
 
 2.  **Optimization Algorithm:** ตัวนำทางคณิตศาสตร์ (เช่น Gradient Descent หรือ Adam)  ที่ทำหน้าที่ไล่ล่าปรับค่าพารามิเตอร์ภายในโมเดลเพื่อลดค่า **ความเสี่ยงเชิงประจักษ์ (Empirical Risk)** หรือค่าเฉลี่ยข้อผิดพลาดบนชุดข้อมูลฝึกสอน ($ L_S(h) $) ให้เหลือต่ำที่สุด ซึ่งเรียกว่ากฎ **Empirical Risk Minimization (ERM)**    
 
+<div>
 $$
 \hat{h} = \underset{h \in \mathcal{H}}{\operatorname{argmin}} L_S(h) = \underset{h \in \mathcal{H}}{\operatorname{argmin}} \left( \frac{1}{m} \sum_{i=1}^m \ell(h(x_i), y_i) \right)
 $$
+</div>
 
 ---
 
