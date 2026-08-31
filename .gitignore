@@ -2,3 +2,4 @@
 /resources/
 .hugo_build.lock
 /content/docs/02-industrial-ai-automation/openTCS-AGV-series
+/content/docs/09-machinelearning-deeplearning-ai-series/prompt.md
