@@ -69,13 +69,13 @@ def mcculloch_pitts_neuron(inputs, weights, threshold):
     else:
         return 0
 
-# 2. จำลองการเรียนรู้ของลอจิกประตูสัญญาณ "AND Gate"
-# [Input 1, Input 2]
-and_inputs = np.array([,])
+# 2. จำลองการทำงานของลอจิกประตูสัญญาณ "AND Gate"
+# [Input 1, Input 2] ครบทุกกรณี 00, 01, 10, 11
+and_inputs = np.array([[0, 0], [0, 1], [1, 0], [1, 1]])
 
-# กำหนดค่าน้ำหนักคงที่ (Fixed Weights) และเกณฑ์การตัดสินใจ (Threshold) ด้วยสมองมนุษย์
-weights = np.array()  # ค่าน้ำหนักเท่ากัน
-threshold = 2               # กำหนดเกณฑ์ที่ 2 เพื่อให้ส่งค่าเป็น 1 เฉพาะเมื่อเป็น เท่านั้น
+# กำหนดค่าน้ำหนักคงที่ (Fixed Weights) และเกณฑ์การตัดสินใจ (Threshold)
+weights = np.array([1, 1])  # กำหนดน้ำหนักขาละ 1
+threshold = 2               # ต้องรวมได้ 2 ถึงจะส่งค่า 1 (เป็นจริงเฉพาะกรณี 1 AND 1)
 
 print("--- ผลลัพธ์จำลองการทำงานของ McCulloch-Pitts Neuron สำหรับ AND Gate ---")
 for inputs in and_inputs:
