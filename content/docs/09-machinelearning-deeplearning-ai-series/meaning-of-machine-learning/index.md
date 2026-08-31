@@ -107,7 +107,7 @@ performance_p = accuracy_score(y_test, y_predictions)
 # สกัดค่าน้ำหนักที่เครื่องแอบคำนวณได้เอง
 print("--- สรุปผลการสกัดคุณลักษณะและการค้นพบสูตรตัดสินใจโดยเครื่อง ---")
 print(f"ค่าพารามิเตอร์ค่าน้ำหนัก (Weights - w) ที่เรียนรู้ได้เอง: {model.coef_}")
-print(f"ค่าสัมประสิทธิ์ส่วนเบี่ยงเบน (Bias - b): {model.intercept_:.4f}")
+print(f"ค่าสัมประสิทธิ์ส่วนเบี่ยงเบน (Bias - b): {model.intercept_[0]:.4f}")
 print(f"คะแนนประสิทธิภาพการเรียนรู้ (Performance P): {performance_p * 100:.2f}%")
 ```
 

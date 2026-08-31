@@ -102,7 +102,7 @@ X_historical_data = np.array([
 ])
 
 # เฉลยเกรดแอปเปิลจริงจากตาผู้เชี่ยวชาญ (Answers/Labels)
-y_true_labels = np.array() # 1 = Premium, 0 = Regular
+y_true_labels = np.array([1, 1, 0, 0, 1, 0]) # 1 = Premium, 0 = Regular
 
 # 2. คอมพิวเตอร์ทำการ "เรียนรู้" (Training Phase) เพื่อสร้างกฎขึ้นมาเอง
 # เราเลือกใช้โมเดลแบ่งกลุ่ม Logistic Regression จาก Scikit-learn
