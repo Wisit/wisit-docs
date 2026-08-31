@@ -73,7 +73,7 @@ X_pcb_features = np.array([
     [5.0, 46.0], [5.3, 44.0], [4.7, 95.0], [5.1, 45.0], [4.6, 99.0]
 ])
 # เฉลยเกรดชิ้นงาน: 1 = เกรดพรีเมียม (Passed), 0 = มีอุณหภูมิเกินขีดจำกัด/พัง (Rejected)
-y_pcb_labels = np.array()
+y_pcb_labels = np.array([1, 1, 0, 1, 0, 1, 0, 0, 1, 0])
 
 
 # =====================================================================
@@ -83,7 +83,7 @@ y_pcb_labels = np.array()
 def rule_based_ai_grader(pcb_data):
     predictions = []
     for item in pcb_data:
-        width, temp = item, item
+        width, temp = item[0], item[1]
         # กำหนดเกณฑ์โดยใช้สมองมนุษย์คาดคะเน
         if temp < 70.0 and (4.9 <= width <= 5.2):
             predictions.append(1)  # Passed
@@ -123,7 +123,7 @@ new_test_pcb = np.array([[5.0, 88.0]])  # ชิ้นงานใหม่: อ
 print("--- เปรียบเทียบการประเมินผล PCB จาก 3 เทคโนโลยี ---")
 print(f"1. Traditional AI (Rule-Based) คาดทำนายเกรด: {rule_based_ai_grader(new_test_pcb)}")
 print(f"2. Classical ML (Random Forest) คาดทำนายเกรด: {ml_classifier.predict(new_test_pcb)}")
-print(f"3. Deep Learning (ANN Model) ทำนายเปอร์เซ็นต์ผ่าน: {dl_model.predict(new_test_pcb).flatten():.4f}")
+print(f"3. Deep Learning (ANN Model) ทำนายเปอร์เซ็นต์ผ่าน: {dl_model.predict(new_test_pcb, verbose=0).flatten()[0]:.4f}")
 ```
 
 ---
